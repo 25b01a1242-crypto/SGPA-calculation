@@ -1,7 +1,9 @@
 # SGPA-calculation
 CALCULATION OF GRADES
-# SGPA Grade Calculator
 
-The **SGPA Grade Calculator** is a Java-based console application designed to calculate a student's Semester Grade Point Average (SGPA) based on the marks obtained in nine subjects. The program accepts marks as input, assigns grades and corresponding grade points according to predefined grading criteria, applies the appropriate credit weight for each subject, and calculates the final SGPA using the weighted grade point formula. It provides an efficient and accurate way to evaluate a student's academic performance.
+ 🎓 SGPA Calculation System (Java)
 
-This project demonstrates the use of core Java concepts such as user input with the `Scanner` class, conditional statements (`if-else`), loops, variables, and arithmetic operations. It is a beginner-friendly project that showcases the practical implementation of programming fundamentals while automating the SGPA calculation process, making it useful for students learning Java and basic academic grading systems.
+The **SGPA Calculation System** is a simple and efficient Java-based application designed to calculate the **Semester Grade Point Average (SGPA)** for students. The project allows users to enter subject grades and credits, automatically computes grade points, and generates the final SGPA with accuracy. Developed using core Java concepts such as **Scanner input, loops, conditional statements, methods, and object-oriented programming**, this project demonstrates a practical academic application suitable for beginners and engineering students.
+
+✨ This project aims to provide a user-friendly console-based solution for academic performance evaluation while strengthening programming fundamentals in Java. It highlights clean code structure, logical problem-solving, and efficient calculation techniques, making it an excellent mini-project for learning Java development and showcasing programming skills on GitHub. 🚀📘
+
